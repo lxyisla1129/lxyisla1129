@@ -8,19 +8,15 @@ My passion? Exploring how data analytics and science can transform industries, e
 
 Stepped on to a different journey from Finance 💸 to Data 🔢!
 
-Typcally Interested 🤩: how data-driven strategies can improve healthcare outcomes, enhance patient care, and streamline operations.
+Interested 🤩: how data-driven strategies can improve healthcare outcomes, enhance patient care, and streamline operations.
 
 💡 Looking Ahead:
 
 With graduation in sight, I am eager to embark on a professional journey in data science and analytics. 
 
-📫 How to reach me: 
-
-This is my email: lxyisla1129@gmail.com, feel free to reach out to me!
-
 🤝 Let's Connect:
 
-Whether you're looking to collaborate on data-driven projects, exchange ideas on the newest analytical techniques, or just chat about the fascinating world of data, I'm your guy. Let's dive into the data together and unearth the wisdom it holds!
+Whether you're looking to collaborate on data-driven projects, or just chat about the fascinating world of data, I'm your guy. This is my email: lxyisla1129@gmail.com, feel free to reach out to me!
 
 <!--
 **lxyisla1129/lxyisla1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

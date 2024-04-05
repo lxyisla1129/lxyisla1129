@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-I'm Mia, a data enthusiast with a deep-seated passion for unraveling stories hidden in numbers, transitioning from finance to business analytics with a graduation date set for June 2024. My passion? Exploring how data analytics and science can transform industries, especially healthcare.
+I'm Mia, a data enthusiast with a deep-seated passion for unraveling stories hidden in numbers, transitioning from finance to business analytics with a graduation date set for June 2024.
+
+My passion? Exploring how data analytics and science can transform industries, especially healthcare.
 
 ✨ What I Do:
 
@@ -10,7 +12,7 @@ Typcally Interested 🤩: how data-driven strategies can improve healthcare outc
 
 💡 Looking Ahead:
 
-With graduation in sight, I am eager to embark on a professional journey in data science and analytics. I'm on the lookout for roles where I can leverage my unique blend of financial insight and analytical prowess to solve real-world challenges.
+With graduation in sight, I am eager to embark on a professional journey in data science and analytics. 
 
 📫 How to reach me: 
 

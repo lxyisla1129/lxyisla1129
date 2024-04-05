@@ -1,22 +1,22 @@
-### Hi there 👋 
+### <div align="center"> Hi there, I'm Mia, A data enthusiast 👋 </div>
 
-I'm Mia, a data enthusiast with a deep-seated passion for unraveling stories hidden in numbers, transitioning from finance to business analytics with a graduation date set for June 2024.
+<div align="center"> 
 
-My passion? Exploring how data analytics and science can transform industries, especially healthcare.
+> I'm transitioning from finance to business analytics with a graduation date set for June 2024.
+> 
+> My passion? Exploring how data science and analytics can transform industries, especially healthcare.
+</div>
 
 ✨ What I Do:
-
-Stepped on to a different journey from Finance 💸 to Data 🔢!
-
-Interested 🤩: how data-driven strategies can improve healthcare outcomes, enhance patient care, and streamline operations.
+- Stepped on to a different journey from Finance 💸 to Data 🔢!
+- Typically interested in how data-driven strategies can improve healthcare outcomes🤩.
 
 💡 Looking Ahead:
-
-With graduation in sight, I am eager to embark on a professional journey in data science and analytics. 
+- With graduation in sight, I am eager to embark on a professional journey in data science and analytics!
 
 🤝 Let's Connect:
-
-Whether you're looking to collaborate on data-driven projects, or just chat about the fascinating world of data, I'm your guy. This is my email: lxyisla1129@gmail.com, feel free to reach out to me!
+- Whether you're looking to collaborate on data-driven projects, or just chat about the fascinating world of data, I'm your guy.
+- Feel free to reach out to me at lxyisla1129@gmail.com!
 
 <!--
 **lxyisla1129/lxyisla1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

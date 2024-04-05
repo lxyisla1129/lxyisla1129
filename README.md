@@ -8,8 +8,6 @@ Stepped on to a different journey from Finance 💸 to Data 🔢!
 
 Typcally Interested 🤩: how data-driven strategies can improve healthcare outcomes, enhance patient care, and streamline operations.
 
-By day, I wrangle data and transform it into actionable insights, blending statistical rigor with machine learning finesse. By night, I'm either exploring the latest in data analytics trends or contributing to open-source projects that echo my mission of making data understandable and accessible to all.
-
 💡 Looking Ahead:
 
 With graduation in sight, I am eager to embark on a professional journey in data science and analytics. I'm on the lookout for roles where I can leverage my unique blend of financial insight and analytical prowess to solve real-world challenges.

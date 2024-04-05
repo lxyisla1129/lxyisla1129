@@ -10,10 +10,6 @@ Typcally Interested 🤩: how data-driven strategies can improve healthcare outc
 
 By day, I wrangle data and transform it into actionable insights, blending statistical rigor with machine learning finesse. By night, I'm either exploring the latest in data analytics trends or contributing to open-source projects that echo my mission of making data understandable and accessible to all.
 
-👨‍💻 My GitHub:
-
-This GitHub is my digital playground where I showcase projects that range from predictive modeling to insightful visualizations. It's a reflection of my journey through the vast landscape of data, with each repository representing a step toward data mastery.
-
 💡 Looking Ahead:
 
 With graduation in sight, I am eager to embark on a professional journey in data science and analytics. I'm on the lookout for roles where I can leverage my unique blend of financial insight and analytical prowess to solve real-world challenges.

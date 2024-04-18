@@ -21,7 +21,7 @@ With graduation in sight, I am eager to embark on a professional journey in data
 
 Whether you're looking to collaborate on data-driven projects, or just chat about the fascinating world of data, I'm your guy.
 
-Feel free to reach out to me at lxyisla1129@gmail.com!
+Feel free to reach out to me at miaooo1129@yahoo.com!
 
 </div>
 <h3 align="center">Languages and Tools:</h3>
